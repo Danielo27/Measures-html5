@@ -21,7 +21,7 @@ se pueden usar estos medidores ya sea pasandole los datos por ajax o websocket._
 
 ## CAPTURAS DE PANTALLA :computer:
 
-![alt tag](https://i.imgur.com/RcFRmPh.jpg)
+![alt tag](https://i.imgur.com/ns4nI3f.jpg)
 
 ![alt tag](https://i.imgur.com/Ua2TEGH.jpg)
 
