@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ENG">
+<head>
+    <title>Circle Measure</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style type="text/css">
+        body{
+            background: #000000;
+            font-family:'Roboto', sans-serif;
+        }
+
+        body h1{
+            text-align: center;
+            color: #ffffff;
+        }
+
+        .btn{
+            margin:2% 0% 0% 19%; 
+        }
+
+        .container{
+            margin:0% 20% 20% 40%;
+        }
+
+        footer{
+           position: absolute;
+           bottom: 0;
+           left: 20%;
+           right: 20%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Circle Measure V.1</h1>
+
+    <div class="container">
+        <div class="measurer">
+            <div class="bd-measurer">
+                <div class="fill-measurer" id="load"></div>
+                <div class="cover-measurer" id="percentage">0%</div>
+            </div>
+        </div>
+
+        <div class="btn">
+            <input type="button" value="Testear" onclick="interval()" />
+        </div>
+    </div>
+ <footer>
+     <h1>Daniel Quintero Henriquez</h1>
+ </footer>
+     <script src="test.js" type="text/javascript"></script>
+    <script src="circle-measure.js" type="text/javascript"></script>
+</body>
+</html>
