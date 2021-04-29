@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+	font-family:'Roboto', sans-serif;
+}
+
+.graph{
+    color: white;
+    border-top: 3px solid #ffffff;
+    border-left: 3px solid #ffffff;
+    width: 300px;
+    height:200px;
+
+}
+
+.bars li{
+    text-align: right;
+    margin-top: 10px;
+}
+
+
+.load{
+  background-color: #07DDF6;
+  height: 20px;
+  transition: 0.7s;
+}

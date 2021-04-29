@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ENG">
+<head>
+    <title>Bar chart</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style type="text/css">
+        body{
+            background: #000000;
+            font-family:'Roboto', sans-serif;
+        }
+
+        body h1{
+            text-align: center;
+            color: #ffffff;
+        }
+
+        .btn{
+            margin:2% 0% 0% 19%; 
+        }
+
+        .container{
+            margin:0% 20% 20% 35%;
+        }
+
+        footer{
+           position: absolute;
+           bottom: 0;
+           left: 20%;
+           right: 20%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bar Chart v1</h1>
+    <div class="container">
+            <ol class="bars" type="A">
+                <div class="graph">
+                     <li><div class="load" id="a" style="width: 100%">Cargando...</div></li>
+                     <li><div class="load" id="b" style="width: 100%">Cargando...</div></li>
+                     <li><div class="load" id="c" style="width: 100%">Cargando...</div></li> 
+                </div> 
+            </ol>
+        <div class="btn">
+            <input type="button" value="Testear" onclick="interval()" />
+        </div>
+    </div>
+    <footer>
+        <h1>Daniel Quintero Henriquez</h1>
+    </footer>
+    <script type="text/javascript" src="test.js"></script>
+    <script type="text/javascript" src="bar-chart.js"></script>
+</body>
+</html>
