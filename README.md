@@ -25,6 +25,8 @@ se pueden usar estos medidores ya sea pasandole los datos por ajax o websocket._
 
 ![alt tag](https://i.imgur.com/Ua2TEGH.jpg)
 
+![alt tag](https://i.imgur.com/Nty2u0t.jpg)
+
 ## AGRADECIMIENTOS :punch:
 
 _Quiero agradecer al canal dcode porque fue la guia para hacer los medidores circulares pues no entendia muy bien como se hacia 
