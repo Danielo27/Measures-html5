@@ -17,7 +17,9 @@ __Posiblemente siga agregando mas medidores que vaya realizando__
 ## USO 📦
 
 _la funcion por defecto que recibira los datos es measurer(aqui el dato a mostrar)
-se pueden usar estos medidores ya sea pasandole los datos por ajax o websocket._
+se pueden usar estos medidores ya sea pasandole datos por medio de ajax o websocket;
+dependiendo el uso que se le vaya a dar si se requiere que los datos se muestren en 
+tiempo real o no._
 
 ## CAPTURAS DE PANTALLA :computer:
 
